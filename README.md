@@ -7,4 +7,5 @@ I am KUMARA KR. I am a tech enthusiast & an open-source person. I am always open
 [![Gmail Badge](https://img.shields.io/badge/-kumarakr113@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karthikco711@gmail.com)](mailto:kumarakr113@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-kumarkr0411-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/Karthikc0711)](https://twitter.com/kumarkr0411)
 
+![Grey White Minimalist Twitter Banner](https://user-images.githubusercontent.com/111037907/206651855-85a41644-446e-493d-bf2d-ae81956d9ab8.png)
 
